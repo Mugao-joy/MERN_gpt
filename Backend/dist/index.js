@@ -1,7 +1,4 @@
-import { express } from "express";
-const app = express();
-//middlewares
-app.use(express.json());
+import app from "./app.js";
 //connection and listeners
 app.listen(5000, () => console.log('Server Open'));
 //# sourceMappingURL=index.js.map
