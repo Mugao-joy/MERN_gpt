@@ -1,2 +1,3 @@
 node_modules
 .env
+SECRET_KEY = sk-None-4NJnOFeaHcttNfAgUj1ET3BlbkFJlfQCHpCNUn06CQaywnpV
